@@ -1,6 +1,3 @@
-from re import S
-
-
 E={1,2,3,4,5}
 N={0,2,4,6,8}
 S_union=E|N
